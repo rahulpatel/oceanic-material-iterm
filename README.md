@@ -1,6 +1,6 @@
 # iterm-material-theme
 
-An iTerm material theme inspired by the [Sublime Text Material Theme](http://equinusocio.github.io/material-theme/).
+An oceanic material iTerm theme inspired by the [Mattia Astorino's Sublime Text Material Theme](http://equinusocio.github.io/material-theme/).
 
 ## Installation Instructions
 
@@ -11,5 +11,5 @@ To install:
 * Navigate to Colors tab
 * Click on Load Presets
 * Click on Import
-* Select the `OceanicMaterialTheme.itermcolors` file
-* Click on Load Presets and choose `OceanicMaterialTheme`
+* Select the `OceanicMaterial.itermcolors` file
+* Click on Load Presets and choose `OceanicMaterial`
