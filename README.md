@@ -11,5 +11,5 @@ To install:
 * Navigate to Colors tab
 * Click on Load Presets
 * Click on Import
-* Select the `material-theme.itermcolors` file
-* Click on Load Presets and choose `material-theme`
+* Select the `OceanicMaterialTheme.itermcolors` file
+* Click on Load Presets and choose `OceanicMaterialTheme`
